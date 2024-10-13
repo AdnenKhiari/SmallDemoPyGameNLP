@@ -1,0 +1,385 @@
+command;action
+move left;move_left
+step left;move_left
+go left;move_left
+walk left;move_left
+run left;move_left
+turn left;move_left
+shift left;move_left
+move to the left;move_left
+take a step left;move_left
+head left;move_left
+if you're on the right, go left;move_left
+don't go right, move left;move_left
+please move to the left;move_left
+take two steps left;move_left
+if you hit a wall, go left;move_left
+move slightly to the left;move_left
+quickly shift left;move_left
+make sure to go left;move_left
+run towards the left;move_left
+don't walk right, go left;move_left
+if there's an obstacle, move left;move_left
+start walking left;move_left
+step to your left side;move_left
+don't head right, move left;move_left
+move to the left as fast as possible;move_left
+adjust your position to the left;move_left
+if you see danger, go left;move_left
+head in the direction of the left;move_left
+continue to move left;move_left
+shift towards the left;move_left
+move over to the left;move_left
+run towards the left side;move_left
+go left if there's a path;move_left
+head left until you reach the end;move_left
+don't turn right, just move left;move_left
+if you're not sure, move left;move_left
+go all the way left;move_left
+shift left to avoid danger;move_left
+run straight left;move_left
+take one step left;move_left
+keep heading left;move_left
+move left immediately;move_left
+do not walk to the right, move left;move_left
+move towards the left corner;move_left
+take a small step left;move_left
+head left and keep going;move_left
+move left until you see the wall;move_left
+don't go straight, just move left;move_left
+make sure you move left;move_left
+turn and move left;move_left
+shift over to the left side;move_left
+move all the way to the left side;move_left
+go left as much as possible;move_left
+continue moving left;move_left
+if you're lost, go left;move_left
+walk left until you reach the end;move_left
+turn left and move forward;move_left
+shift left if you're in trouble;move_left
+don't hesitate, go left;move_left
+head left until you stop;move_left
+avoid going right, just move left;move_left
+immediately step left;move_left
+move to your left;move_left
+shift to the left quickly;move_left
+run left until you reach safety;move_left
+take a step to your left side;move_left
+move left when you're unsure;move_left
+walk left if there's space;move_left
+shift left as much as possible;move_left
+run straight to the left;move_left
+move left until further notice;move_left
+step left and avoid obstacles;move_left
+head to the left side of the path;move_left
+don't look back, just go left;move_left
+if the right side is blocked, go left;move_left
+run left and don't stop;move_left
+make your way left;move_left
+move left once you start;move_left
+turn left and keep moving;move_left
+go left until the path ends;move_left
+move left to avoid any trouble;move_left
+run left if it's safe;move_left
+move left cautiously;move_left
+step left to dodge danger;move_left
+keep shifting left;move_left
+move left as soon as possible;move_left
+walk left without stopping;move_left
+if unsure, go left;move_left
+turn left when you need to move;move_left
+shift left to get away;move_left
+if you're confused, just go left;move_left
+move left without hesitation;move_left
+run left until you reach the destination;move_left
+take a quick step left;move_left
+make your way to the left side;move_left
+keep walking left;move_left
+shift left to avoid obstacles;move_left
+move right;move_right
+step right;move_right
+go right;move_right
+walk right;move_right
+run right;move_right
+turn right;move_right
+shift right;move_right
+move to the right;move_right
+take a step right;move_right
+head right;move_right
+if you're on the left, go right;move_right
+don't go left, move right;move_right
+please move to the right;move_right
+take two steps right;move_right
+if you hit a wall, go right;move_right
+move slightly to the right;move_right
+quickly shift right;move_right
+make sure to go right;move_right
+run towards the right;move_right
+don't walk left, go right;move_right
+if there's an obstacle, move right;move_right
+start walking right;move_right
+step to your right side;move_right
+don't head left, move right;move_right
+move to the right as fast as possible;move_right
+adjust your position to the right;move_right
+if you see danger, go right;move_right
+head in the direction of the right;move_right
+continue to move right;move_right
+shift towards the right;move_right
+move over to the right;move_right
+run towards the right side;move_right
+go right if there's a path;move_right
+head right until you reach the end;move_right
+don't turn left, just move right;move_right
+if you're not sure, move right;move_right
+go all the way right;move_right
+shift right to avoid danger;move_right
+run straight right;move_right
+take one step right;move_right
+keep heading right;move_right
+move right immediately;move_right
+do not walk to the left, move right;move_right
+move towards the right corner;move_right
+take a small step right;move_right
+head right and keep going;move_right
+move right until you see the wall;move_right
+don't go straight, just move right;move_right
+make sure you move right;move_right
+turn and move right;move_right
+shift over to the right side;move_right
+move all the way to the right side;move_right
+go right as much as possible;move_right
+continue moving right;move_right
+if you're lost, go right;move_right
+walk right until you reach the end;move_right
+turn right and move forward;move_right
+shift right if you're in trouble;move_right
+don't hesitate, go right;move_right
+head right until you stop;move_right
+avoid going left, just move right;move_right
+immediately step right;move_right
+move to your right;move_right
+shift to the right quickly;move_right
+run right until you reach safety;move_right
+take a step to your right side;move_right
+move right when you're unsure;move_right
+walk right if there's space;move_right
+shift right as much as possible;move_right
+run straight to the right;move_right
+move right until further notice;move_right
+step right and avoid obstacles;move_right
+head to the right side of the path;move_right
+don't look back, just go right;move_right
+if the left side is blocked, go right;move_right
+run right and don't stop;move_right
+make your way right;move_right
+move right once you start;move_right
+turn right and keep moving;move_right
+go right until the path ends;move_right
+move right to avoid any trouble;move_right
+run right if it's safe;move_right
+move right cautiously;move_right
+step right to dodge danger;move_right
+keep shifting right;move_right
+move right as soon as possible;move_right
+walk right without stopping;move_right
+if unsure, go right;move_right
+turn right when you need to move;move_right
+shift right to get away;move_right
+if you're confused, just go right;move_right
+move right without hesitation;move_right
+run right until you reach the destination;move_right
+take a quick step right;move_right
+make your way to the right side;move_right
+keep walking right;move_right
+shift right to avoid obstacles;move_right
+jump;jump
+leap;jump
+hop;jump
+make a jump;jump
+start jumping;jump
+take a big jump;jump
+jump up;jump
+hop forward;jump
+jump high;jump
+leap forward;jump
+make a small jump;jump
+take a quick jump;jump
+jump as far as you can;jump
+jump over;jump
+if you need to jump, do it;jump
+jump up quickly;jump
+hop over the obstacle;jump
+make sure to jump;jump
+jump straight up;jump
+if you're stuck, jump;jump
+take a leap;jump
+leap across;jump
+jump as fast as possible;jump
+don't hesitate to jump;jump
+jump now;jump
+jump towards the left;jump
+jump towards the right;jump
+jump forward immediately;jump
+make a giant jump;jump
+hop across;jump
+take a huge jump;jump
+jump in the air;jump
+leap high;jump
+hop over;jump
+jump over the pit;jump
+take a jump forward;jump
+jump over the gap;jump
+hop and go forward;jump
+jump if there's danger;jump
+leap if needed;jump
+jump quickly;jump
+hop quickly;jump
+make a rapid jump;jump
+jump without hesitation;jump
+take a small hop;jump
+jump straight ahead;jump
+take a leap of faith;jump
+jump to the side;jump
+hop left;jump
+hop right;jump
+leap and go;jump
+make a quick jump;jump
+jump high if needed;jump
+jump across;jump
+take a fast leap;jump
+jump and continue;jump
+make a jump forward;jump
+jump immediately;jump
+if you see an obstacle, jump;jump
+make a long jump;jump
+hop if you must;jump
+jump far;jump
+jump across the obstacle;jump
+jump when you can;jump
+take a big leap;jump
+leap forward as fast as you can;jump
+jump to avoid it;jump
+make a leap forward;jump
+take a small hop forward;jump
+jump as far as possible;jump
+make a quick hop;jump
+jump forward as soon as possible;jump
+take a huge leap;jump
+jump if the path is blocked;jump
+jump forward if you see an obstacle;jump
+take a jump to the left;jump
+hop forward quickly;jump
+jump over if needed;jump
+hop quickly over;jump
+leap ahead;jump
+make a long leap;jump
+jump if you see danger;jump
+take a jump and move forward;jump
+jump as quickly as possible;jump
+make a big leap;jump
+jump to dodge;jump
+hop across quickly;jump
+take a leap of faith forward;jump
+jump immediately over;jump
+leap if there's no other option;jump
+jump if you see a gap;jump
+jump far forward;jump
+take a hop over;jump
+jump in place;jump
+jump and keep moving;jump
+leap as far as possible;jump
+change color;change_color
+switch color;change_color
+alter the color;change_color
+shift color;change_color
+change to a new color;change_color
+switch to a different color;change_color
+set a new color;change_color
+adjust the color;change_color
+modify the color;change_color
+pick a different color;change_color
+select a new color;change_color
+transform the color;change_color
+change the appearance;change_color
+update the color;change_color
+change to another color;change_color
+switch your color;change_color
+adjust to a new color;change_color
+shift to another color;change_color
+pick a new color;change_color
+transform into a different color;change_color
+alter your appearance;change_color
+change your current color;change_color
+set the color to something new;change_color
+modify your appearance;change_color
+if you can, change color;change_color
+switch into a different color;change_color
+transform your color;change_color
+adjust the color setting;change_color
+choose a new color;change_color
+pick another color;change_color
+shift your color;change_color
+transform into another color;change_color
+select a different color;change_color
+change your color quickly;change_color
+if needed, change color;change_color
+alter your color immediately;change_color
+make sure to change the color;change_color
+change color to something else;change_color
+adjust color settings;change_color
+switch the current color;change_color
+transform into a new color;change_color
+if necessary, change color;change_color
+update your color;change_color
+change into a new color;change_color
+shift into a different color;change_color
+alter your color instantly;change_color
+change your color right away;change_color
+switch the color immediately;change_color
+if unsure, change color;change_color
+modify the current color;change_color
+set a brand new color;change_color
+pick a fresh color;change_color
+change to a random color;change_color
+switch your color as needed;change_color
+update to another color;change_color
+shift your appearance;change_color
+alter the color setting;change_color
+transform the appearance instantly;change_color
+make a color change;change_color
+if it's possible, change color;change_color
+quickly switch colors;change_color
+change to any color you like;change_color
+modify color instantly;change_color
+adjust your appearance with a new color;change_color
+alter color to something different;change_color
+shift the color as soon as possible;change_color
+change the color without hesitation;change_color
+pick a new color and go;change_color
+transform to a fresh new color;change_color
+adjust the current color setting;change_color
+if you can, switch color;change_color
+change color immediately;change_color
+switch to any new color;change_color
+adjust the hue;change_color
+change the shade;change_color
+select another hue;change_color
+change into any available color;change_color
+pick a color and change;change_color
+shift into a new color immediately;change_color
+choose the next available color;change_color
+alter your hue quickly;change_color
+change to a brighter color;change_color
+switch to a darker color;change_color
+adjust the color scheme;change_color
+change the appearance as soon as possible;change_color
+if you must, change color;change_color
+shift into the next color available;change_color
+transform the hue immediately;change_color
+modify the hue instantly;change_color
+alter color settings quickly;change_color
+change the current hue;change_color
+switch your current color as fast as possible;change_color
+update the color scheme;change_color
+make a quick color change;change_color

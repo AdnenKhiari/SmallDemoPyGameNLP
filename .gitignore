@@ -1,0 +1,5 @@
+/results
+/tinybert-trained-model
+/mlruns
+/__pycache__
+/*.pkl
